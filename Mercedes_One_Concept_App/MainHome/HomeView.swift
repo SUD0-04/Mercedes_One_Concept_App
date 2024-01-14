@@ -36,8 +36,11 @@ struct HomeView: View {
                         .foregroundColor(.black)
                         .padding(.leading, -50)
                 }
+                
             }
         }
+        Image("Mercedes_EQ")
+            .padding(.leading, -150)
     }
 }
 
